@@ -1,0 +1,15 @@
+.about {
+    max-width: 30rem;
+    margin: 2rem auto;
+    padding: 1rem;
+    border: 1px solid #b2f07f;
+    border-radius: 6px;
+}
+
+.about h1 {
+    margin-top: 0;
+}
+
+.about p {
+    margin: 0.4rem 0;
+}
